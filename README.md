@@ -1,5 +1,8 @@
 
-# Jenkins Pipeline for Nodejs Web-App
+Automated Deployment of Nodejs Web-App 
+
+![New Whiteboard](https://github.com/ghulekomal/node-todo-cicd/assets/54700625/8b38e545-4eaa-4e20-be6c-eebbd3334157)
+
 
 Project Summary:
 
@@ -52,13 +55,7 @@ Run project
 ```
 
 
+## Access Web-app
+![image](https://github.com/ghulekomal/node-todo-cicd/assets/54700625/0d3d880a-978e-4b6f-becb-eda5c17a79d2)
 
-## Demo
-
-Insert gif or link to demo
-
-
-## Screenshots
-
-![App Screenshot](file:///C:/Users/Omsai/Downloads/CKA/New%20Whiteboard.jpg)
 
